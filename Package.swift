@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChainKit",
-            url: "https://github.com/tonkeeper/chainkit-swift/releases/download/0.1.0/ChainKit.xcframework.zip",
-            checksum: "6babcb2dcdcdff762892c3cbecf02b1e1ced05721a639822622e327d79e01a5b"
+            url: "https://github.com/tonkeeper/chainkit-swift/releases/download/0.1.1/ChainKit.xcframework.zip",
+            checksum: "6fa188650dcd7a3be3ddfddec2a4c675729ade2375422ec3bf3d713dfa1d5c38"
         ),
         .binaryTarget(
             name: "WalletCore",
